@@ -1,0 +1,5 @@
+# Installation:
+# Führen Sie diesen Befehl im Terminal aus:
+# pip install -r requirements.txt
+
+python-dotenv
