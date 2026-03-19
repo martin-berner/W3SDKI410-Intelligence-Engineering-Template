@@ -7,9 +7,9 @@
 * Upload des gesamten Repositories in Moodle als zip-File spätestens 1 Tag nach der letzten Veranstaltung zur Archivierung
 
 ## Bewertungskriterien Engineering Lab
-* **Problemstellung & Transferleistung:** Komplexität und Relevanz des gewählten Szenarios; kreative Verknüpfung des Themenbereichs mit einer praktischen Fragestellung.
-* **Architektur & Implementierung:** Qualität und Verständlichkeit der Lösung (Python-Code).
-* **Dokumentation:** Klarheit, Struktur und Reproduzierbarkeit; präzise Beschreibung der Problemstellung und des gewählten Ansatzes, inkl. technischer Design-Entscheidungen.
-* **Analytische Reflexion:** Fähigkeit, die eigenen Ergebnisse kritisch zu hinterfragen, Limitationen aufzuzeigen und Lösung zu bewerten (mündlich in Demo und schriftlich in README.md).
+Die Bewertung erfolgt auf Basis der (1) **README.md**, (2) des **Python-Codes** und (3) der **Abschluss-Demo**
+* **Transfer & Problemstellung:** kreative Verknüpfung des Themenbereichs mit einer praktischen Fragestellung; Komplexität und Relevanz des gewählten Szenarios (*Problemestellung & Zielsetzung*).
+* **Architektur & Coding:** Qualität und Verständlichkeit der Design-Entscheidungen und der Lösung inklusve Klarheit, Struktur und Reproduzierbarkeit. 
+* **Analytische Reflexion:** Fähigkeit, die eigenen Ergebnisse kritisch zu hinterfragen, Limitationen aufzuzeigen und Lösung zu bewerten.
 
 
