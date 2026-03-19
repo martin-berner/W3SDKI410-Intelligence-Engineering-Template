@@ -8,8 +8,6 @@
 
 ## Bewertungskriterien Engineering Lab
 Die Bewertung erfolgt auf Basis der (1) **README.md**, (2) des **Python-Codes** und (3) der **Abschluss-Demo**
-* **Transfer & Problemstellung:** kreative Verknüpfung des Themenbereichs mit einer praktischen Fragestellung; Komplexität und Relevanz des gewählten Szenarios (*Problemestellung & Zielsetzung*).
-* **Architektur & Coding:** Qualität und Verständlichkeit der Design-Entscheidungen und der Lösung inklusve Klarheit, Struktur und Reproduzierbarkeit. 
-* **Analytische Reflexion:** Fähigkeit, die eigenen Ergebnisse kritisch zu hinterfragen, Limitationen aufzuzeigen und Lösung zu bewerten.
-
-
+* **Transfer & Problemstellung:** Kreative Verknüpfung des Themenbereichs mit einer praktischen Fragestellung; Komplexität und Relevanz des gewählten Szenarios.
+* **Architektur & Coding:** QQualität und Verständlichkeit der Lösung und der Design-Entscheidungen, inklusive Klarheit, Struktur und Reproduzierbarkeit. 
+* **Analytische Reflexion:** Fähigkeit, die eigenen Ergebnisse kritisch zu hinterfragen und Limitationen aufzuzeigen.
