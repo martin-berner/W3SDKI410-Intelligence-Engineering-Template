@@ -1,4 +1,4 @@
-# Engineering Lab 1: Foundation Models
+# Engineering Lab 1: Vortrainierte ML-Modelle
 **Modul: Intelligence Engineering | DHBW Mosbach**
 
 ## 1. Problemstellung & Zielsetzung

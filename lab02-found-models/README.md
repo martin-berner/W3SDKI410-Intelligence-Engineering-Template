@@ -1,4 +1,4 @@
-# Engineering Lab 2: Large Language Models (LLMs)
+# Engineering Lab 2: Foundation Models
 **Modul: Intelligence Engineering | DHBW Mosbach**
 
 ## 1. Problemstellung & Zielsetzung
